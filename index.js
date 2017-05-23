@@ -2,7 +2,7 @@
 /*global static*/
 
 console.log("Setting up constants and global variables...");
-var imgurClientID = "";
+var imgurClientID = "Client-ID f58fe435ddc2ae1";
 
 console.log("Loading Request...");
 var request = require("request");
