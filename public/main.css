@@ -1,0 +1,15 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    background: #c0f7f3;
+    font-family:sans-serif;
+}
+
+h1{
+    font-size: 50pt;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
