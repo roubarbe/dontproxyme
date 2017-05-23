@@ -4,7 +4,7 @@
   "description": "Fetches images from imgur (albums) and gfycat, and throws back the datauri of each image",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "index.js"
   },
   "author": "Garrus",
   "license": "MIT"
