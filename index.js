@@ -25,6 +25,7 @@ function imgurCleanup(data){
     };
     
     var i;
+    console.log(data);
     for(i=0; i < data.data.images.length; i++){
         cleanedUpAlbum.images.push(data.data.images[i].link);
     }
