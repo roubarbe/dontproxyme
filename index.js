@@ -80,7 +80,7 @@ app.use(express.static('public'));
 
 
 
-app.listen(21134, function () {
+app.listen(process.env.PORT || 21134, function () {
     "use strict";
     console.log('Don\'t Proxy Me running on port 21134!');
 });
